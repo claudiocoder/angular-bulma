@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-semantic"
+    }
+  },
+  "defaultProject": "angular-semantic",
+  "cli": {
+    "analytics": false
+  }
 }
